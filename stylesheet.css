@@ -1,0 +1,240 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+body
+{
+	font-family: monospace;
+
+}
+#topic{
+	width:100%;
+	height:100vh;
+	background-image: url(pic3.jpg);
+	background-size: cover;
+	background-position: center;
+	position: relative;
+}
+.container0
+{
+	position: absolute;
+	width: 100%;
+	height: 100vh;
+	background: rgba(86,86,86,0.3);
+	left: 0;
+	top: 0;
+}
+.info0{
+    width:80%;
+    color: white;
+    position: absolute;
+    right: 10%;
+    left : 20%;
+    top: 40%;
+}
+.info0 h1
+{
+	font-size: 70px;
+	letter-spacing: 10px; 
+}
+#beatles{
+	width:100%;
+	height: 100vh;
+	background-image: url(beatles.jpg);
+	background-size: cover;
+	background-position: center;
+	position: relative;
+}
+.container{
+	width: 50%;
+	height: 100vh;
+	background: rgba(86,86,86,0.3);
+	backdrop-filter: blur(10px);
+	position: absolute;
+	left:0;
+	top:0;
+
+}
+.info{
+	width: 550px;
+	color : white;
+	position : absolute;
+	right: 0;
+	left: 29%;
+	top: 20%;
+	
+}
+.info h1{
+	font-size: 60px;
+	letter-spacing: 10px; 
+}
+.info p{
+	font-size: 20px;
+	color : white;
+	margin: 30px 10px 0 -188px;
+	text-align: center;
+	line-height: 28px;
+	
+}
+#mj{
+	width:100%;
+	height: 100vh;
+	background-image: url(mj.jpg);
+	background-size: cover;
+	background-position: center;
+	position: relative;
+}
+.container1{
+	width: 50%;
+	height: 100vh;
+	background: rgba(86,86,86,0.3);
+	backdrop-filter: blur(10px);
+	position: absolute;
+	left:0;
+	top:0;
+
+}
+.info1{
+	width: 550px;
+	color : white;
+	position : absolute;
+	right: 0;
+	left: 35%;
+	top: 20%;
+	
+}
+.info1 h1{
+	font-size: 60px;
+	letter-spacing: 10px; 
+
+}
+.info1 p{
+	font-size: 20px;
+	color : white;
+	margin: 30px 10px 0 -170px;
+	text-align: center;
+	line-height: 28px;
+	
+}
+#madona{
+	width:100%;
+	height: 100vh;
+	background-image: url(madonna.jpg);
+	background-size: cover;
+	background-position: center;
+	position: relative;
+}
+.container2{
+	width: 62%;
+	height: 100vh;
+	background: rgba(86,86,86,0.3);
+	backdrop-filter: blur(5px);
+	position: absolute;
+	left:0;
+	top:0;
+
+}
+.info2{
+	width: 550px;
+	color : white;
+	position : absolute;
+	right: 0;
+	left: 20%;
+	top: 25%;
+	
+}
+.info2 h1{
+	font-size: 60px;
+	letter-spacing: 10px; 
+	margin-left: 60px;
+}
+.info2 p{
+	font-size: 20px;
+	color : white;
+	margin: 30px -70px 0 -120px;
+	text-align: center;
+	line-height: 28px;
+	
+}
+#eminem{
+	width:100%;
+	height: 100vh;
+	background-image: url(eminem.jpg);
+	background-size: cover;
+	background-position: center;
+	position: relative;
+}
+.container3{
+	width: 55%;
+	height: 100vh;
+	background: rgba(86,86,86,0.3);
+	backdrop-filter: blur(10px);
+	position: absolute;
+	left:0;
+	top:0;
+
+}
+.info3{
+	width: 550px;
+	color : white;
+	position : absolute;
+	right: 0;
+	left: 0;
+	top: 20%;
+	
+}
+.info3 h1{
+	font-size: 60px;
+	letter-spacing: 10px;
+	margin-left: 270px; 
+}
+.info3 p{
+	font-size: 20px;
+	color : white;
+	margin: 30px -260px 0 70px;
+	text-align: center;
+	line-height: 28px;
+	
+}
+#Taylor{
+	width:100%;
+	height: 100vh;
+	background-image: url(taylor.jpg);
+	background-size: cover;
+	background-position: center;
+	position: relative;
+}
+.container4{
+	width: 62%;
+	height: 100vh;
+	background: rgba(86,86,86,0.3);
+	backdrop-filter: blur(10px);
+	position: absolute;
+	left:0;
+	top:0;
+
+}
+.info4{
+	width: 550px;
+	color : white;
+	position : absolute;
+	left: 0;
+	top: 20%;
+	
+}
+.info4 h1{
+	font-size: 60px;
+	letter-spacing: 10px; 
+	margin-left: 90px;
+ }   
+.info4 p{
+	font-size: 20px;
+	color : white;
+	margin: 30px -280px 0 70px;
+	text-align: center;
+	line-height: 28px;
+	
+}
